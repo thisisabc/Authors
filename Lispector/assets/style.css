@@ -3,7 +3,7 @@
 
 body {
 	
-	background-color: #FFF3DF;
+	background-color: #FFFFFF;
 	font-family: 'Bodoni Moda', serif;
 	display: flex;
 	justify-content: center;
@@ -18,15 +18,15 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #FFF3DF;
 	font-family: 'Bodoni Moda', serif;
 }
 
 img {
 	max-width: 10em;
+	}
 
 p {
-	padding: 0 0 0 3em;
+	padding: 0 0 0 2em;
 	font-size: 1em;
 }
 
